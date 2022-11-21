@@ -157,7 +157,7 @@ export default function Mint() {
                                 </div>
 
                                 <img
-                                    src="/images/13.png"
+                                    src="https://ghostlers-io.vercel.app/config/images/example.gif"
                                     className="object-cover w-full sm:h-[280px] md:w-[250px] rounded-md"
                                 />
                             </div>
